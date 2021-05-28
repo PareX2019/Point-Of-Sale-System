@@ -12,7 +12,6 @@ public class RunApp5
 
     public static void main(String args[])
     {
-        //Log in screen variables
         String choiceLogInSreen;
 
         System.out.println("1. Login\n2. Exit");
